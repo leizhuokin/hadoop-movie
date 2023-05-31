@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="processweb:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a934cdfc-2dce-4d76-ba6c-fad300e7116d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../JDBC-chaxun/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_Quick/src/main/java/cn/edu/zut/springboot_quick/service/impl/BlogRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_Quick/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC-chaxun/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC-chaxun/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot_Quick/src/main/java/cn/edu/zut/springboot_quick/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBoot_Quick/src/main/java/cn/edu/zut/springboot_quick/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot_Quick/src/main/java/cn/edu/zut/springboot_quick/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBoot_Quick/src/main/java/cn/edu/zut/springboot_quick/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot_Quick/src/main/java/cn/edu/zut/springboot_quick/mapper/RoleMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBoot_Quick/src/main/java/cn/edu/zut/springboot_quick/mapper/RoleMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot_Quick/src/main/java/cn/edu/zut/springboot_quick/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBoot_Quick/src/main/java/cn/edu/zut/springboot_quick/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot_Quick/src/main/java/cn/edu/zut/springboot_quick/mapper/UserRoleMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBoot_Quick/src/main/java/cn/edu/zut/springboot_quick/mapper/UserRoleMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot_Quick/src/main/java/cn/edu/zut/springboot_quick/service/RoleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBoot_Quick/src/main/java/cn/edu/zut/springboot_quick/service/RoleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot_Quick/src/main/java/cn/edu/zut/springboot_quick/service/UserRoleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBoot_Quick/src/main/java/cn/edu/zut/springboot_quick/service/UserRoleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot_Quick/src/main/java/cn/edu/zut/springboot_quick/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBoot_Quick/src/main/java/cn/edu/zut/springboot_quick/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot_Quick/src/main/java/cn/edu/zut/springboot_quick/service/impl/RoleServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBoot_Quick/src/main/java/cn/edu/zut/springboot_quick/service/impl/RoleServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot_Quick/src/main/java/cn/edu/zut/springboot_quick/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBoot_Quick/src/main/java/cn/edu/zut/springboot_quick/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot_Quick/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBoot_Quick/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot_Quick/src/main/resources/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBoot_Quick/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot_Quick/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/hnumi/demo/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/main/java/com/hnumi/demo/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vacc/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../vacc/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vacc/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../vacc/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vacc/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../vacc/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vacc/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../vacc/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vacc/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../vacc/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vacc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vacc/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vacc/src/main/java/cn/edu/zut/vacc/VaccApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vacc/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../vacc/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vacc/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vacc/src/test/java/cn/edu/zut/vacc/VaccApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../vacc/src/test/java/cn/edu/zut/vacc/VaccApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="jsf" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/Software/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Ab74xXL1OZ4Dprx60YlGpHBgHi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/processexample/src/main/java/org/example" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\mrexample\processexample\src\main\java\org\example" />
+      <recent name="D:\IdeaProjects\mrexample\processweb\src\main\webapp\static\js" />
+      <recent name="D:\IdeaProjects\mrexample\processweb\src\main\webapp\static" />
+      <recent name="D:\IdeaProjects\mrexample\processweb\src\main\java\com\example\processweb" />
+      <recent name="D:\IdeaProjects\mrexample\processweb\src\main\webapp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\mrexample\processweb\src\main\webapp" />
+      <recent name="D:\IdeaProjects\mrexample\processweb\src\main\webapp\static\css" />
+      <recent name="D:\IdeaProjects\mrexample\processweb\src\main\webapp\static" />
+      <recent name="D:\IdeaProjects\mrexample\processweb\src\main\webapp\static\js" />
+      <recent name="D:\IdeaProjects\mrexample\processexample\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.software" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.utils" />
+      <recent name="com.example.processweb" />
+      <recent name="com.software.servlet.utils" />
+      <recent name="com.software.servlet" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat 服务器.Tomcat 8.5.71">
+    <configuration name="eight" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.zzti.eight" />
+      <module name="processexample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.zzti.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="one" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.zzti.one" />
+      <module name="processexample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.zzti.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="seven" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.zzti.seven" />
+      <module name="processexample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.zzti.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="six" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.zzti.six" />
+      <module name="processexample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.zzti.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="three" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.zzti.three" />
+      <module name="processexample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.zzti.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringboottestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboottest" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springboottest.SpringboottestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.71" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.711" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="processweb:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/processweb_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="2b05c614-7736-46ab-8d01-d9f6b7198e9d" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="7188" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="processweb:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.SpringboottestApplication" />
+      <item itemvalue="Tomcat 服务器.Tomcat 8.5.71" />
+      <item itemvalue="应用程序.three" />
+      <item itemvalue="应用程序.six" />
+      <item itemvalue="应用程序.seven" />
+      <item itemvalue="应用程序.eight" />
+      <item itemvalue="应用程序.one" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a934cdfc-2dce-4d76-ba6c-fad300e7116d" name="Changes" comment="" />
+      <created>1655266246676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655266246676</updated>
+      <workItem from="1655266248729" duration="2616000" />
+      <workItem from="1655274887070" duration="1030000" />
+      <workItem from="1655275985847" duration="11353000" />
+      <workItem from="1655291833629" duration="2124000" />
+      <workItem from="1655302257837" duration="1111000" />
+      <workItem from="1655303388391" duration="270000" />
+      <workItem from="1655303673553" duration="194000" />
+      <workItem from="1655303883911" duration="109000" />
+      <workItem from="1655304011281" duration="562000" />
+      <workItem from="1655353005546" duration="916000" />
+      <workItem from="1655364370477" duration="2819000" />
+      <workItem from="1655380279690" duration="495000" />
+      <workItem from="1655511270423" duration="156000" />
+      <workItem from="1655511444427" duration="974000" />
+      <workItem from="1655512646017" duration="81000" />
+      <workItem from="1655512770616" duration="2194000" />
+      <workItem from="1655515153823" duration="708000" />
+      <workItem from="1655515880971" duration="359000" />
+      <workItem from="1655516264547" duration="349000" />
+      <workItem from="1655516633183" duration="421000" />
+      <workItem from="1655517072824" duration="3893000" />
+      <workItem from="1655533871085" duration="2050000" />
+      <workItem from="1655536178080" duration="1378000" />
+      <workItem from="1655537863900" duration="2802000" />
+      <workItem from="1655546164695" duration="876000" />
+      <workItem from="1655566885503" duration="221000" />
+      <workItem from="1655599615525" duration="18611000" />
+      <workItem from="1655626142822" duration="274000" />
+      <workItem from="1655630063302" duration="2862000" />
+      <workItem from="1655640846243" duration="138000" />
+      <workItem from="1655715901221" duration="1072000" />
+      <workItem from="1655720149355" duration="9216000" />
+      <workItem from="1655796757344" duration="2408000" />
+      <workItem from="1655803181532" duration="1116000" />
+      <workItem from="1655816623542" duration="1184000" />
+      <workItem from="1655857178942" duration="685000" />
+      <workItem from="1655865822243" duration="1899000" />
+      <workItem from="1655878399935" duration="1439000" />
+      <workItem from="1655882877297" duration="8356000" />
+      <workItem from="1655898235525" duration="3307000" />
+      <workItem from="1655902569690" duration="2005000" />
+      <workItem from="1655907257864" duration="5170000" />
+      <workItem from="1655944953484" duration="1625000" />
+      <workItem from="1655946804943" duration="8704000" />
+      <workItem from="1655957799152" duration="1644000" />
+      <workItem from="1655959792894" duration="1849000" />
+      <workItem from="1655983595144" duration="4721000" />
+      <workItem from="1655991796744" duration="1613000" />
+      <workItem from="1655995157199" duration="763000" />
+      <workItem from="1656036230391" duration="5436000" />
+      <workItem from="1656042120175" duration="920000" />
+      <workItem from="1656043060377" duration="160000" />
+      <workItem from="1656052578019" duration="1851000" />
+      <workItem from="1656057482357" duration="1675000" />
+      <workItem from="1657343184215" duration="119000" />
+      <workItem from="1657343317683" duration="701000" />
+      <workItem from="1657864114549" duration="128000" />
+      <workItem from="1657864263812" duration="180000" />
+      <workItem from="1657864464845" duration="234000" />
+      <workItem from="1658221518003" duration="603000" />
+      <workItem from="1658222164571" duration="328000" />
+      <workItem from="1658222569633" duration="32000" />
+      <workItem from="1658222618246" duration="245000" />
+      <workItem from="1658222881879" duration="219000" />
+      <workItem from="1658223120481" duration="130000" />
+      <workItem from="1658223268284" duration="118000" />
+      <workItem from="1658223403455" duration="1086000" />
+      <workItem from="1658224710735" duration="161000" />
+      <workItem from="1659077652097" duration="1165000" />
+      <workItem from="1659078848457" duration="199000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.io.IOException" package="java.io" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
